@@ -2,7 +2,7 @@
 
 * [Balasubramanian. R](https://github.com/Cyberkid2311)
 * [Sharvari Wagle](https://github.com/Sharvari13)
-* [Shruti Agrawal](https://github.com/ShrutiAgrawal2232)
+8* [Shruti Agrawal](https://github.com/ShrutiAgrawal2232)
 * [Coding Capricorn](https://github.com/codingCapricorn)
 * [Manvi Jha](https://github.com/Severus-Matthew)
 * [Jyoti Harode](https://github.com/jYOTIHARODE)
@@ -13,3 +13,5 @@
 * [Shubham Prateek](https://github.com/Shubham-Prateek)
 * [Divyanshi Agarwal](https://github.com/Divyanshi29)
 * [Shreya Punetha](https://github.com/shreyapuntha)
+* [Maitri Gurey](https://github.com/MaitriGurey)
+
